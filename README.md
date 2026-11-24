@@ -21,6 +21,16 @@
 <tr>
 <td width="50%" valign="top">
 
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+
+<img src="https://github.com/HuzeThat.png" width="180" style="border-radius:50%;" alt="Huzeifa Profile Picture" />
+
+</td>
+
+<td width="70%" valign="middle">
+
 ## 👨‍💻 About Me
 
 I'm a Computer Science student and Web Developer passionate about building applications, solving problems, and exploring modern technologies.
@@ -32,7 +42,8 @@ I'm a Computer Science student and Web Developer passionate about building appli
 - 🚀 Continuously improving my development skills
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
