@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/HuzeThat">
-    <img src="https://img.shields.io/badge/GitHub-HuzeThat-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-HuzeThat-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:huzesirajflow@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -88,59 +88,97 @@ I'm a Computer Science student and Web Developer passionate about building appli
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<p align="center">
+  <i>A selection of projects I've built while learning, exploring and developing my skills.</i>
+</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/HuzeThat/Professional-JavaFX-Shop-Billing-System-with-MySQL">
+<img src="https://raw.githubusercontent.com/HuzeThat/MyPortfolio/main/images/billing.png.jpg" width="100%" alt="Shop Billing System Screenshot" />
+</a>
+
 ### 🧾 Shop Billing System
 
-A JavaFX desktop application for managing shop billing and related operations.
+A desktop billing application designed to manage shop billing and related operations.
 
-**Technologies:**
-Java • JavaFX • MySQL
+**Technologies**
 
-[View Repository](https://github.com/HuzeThat/Professional-JavaFX-Shop-Billing-System-with-MySQL)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+<p align="center">
+<a href="https://github.com/HuzeThat/Professional-JavaFX-Shop-Billing-System-with-MySQL">🔗 View Project</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
+
+<a href="https://github.com/HuzeThat/Farmer-Crops-Finance">
+<img src="https://raw.githubusercontent.com/HuzeThat/MyPortfolio/main/images/farm.png.jpg" width="100%" alt="Farmer Crops Finance Screenshot" />
+</a>
 
 ### 🌾 Farmer Crops Finance
 
-A C++ project focused on farming seasons, crop records, expenses, income and data management.
+A C++ application for managing farming seasons, crops, income and expenses using data structures.
 
-**Technologies:**
-C++ • Doubly Linked List
+**Technologies**
 
-[View Repository](https://github.com/HuzeThat/Farmer-Crops-Finance)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-008080?style=flat)
+
+<p align="center">
+<a href="https://github.com/HuzeThat/Farmer-Crops-Finance">🔗 View Project</a>
+</p>
 
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/mujahid5177/WearWise">
+<img src="https://raw.githubusercontent.com/HuzeThat/MyPortfolio/main/images/wearwise.png" width="100%" alt="WearWise Android Application Screenshot" />
+</a>
 
 ### 📱 WearWise
 
 An Android application project focused on mobile application development.
 
-**Technologies:**
-Android • Kotlin *(verify language)*
+**Technologies**
 
-[View Repository](https://github.com/mujahid5177/WearWise)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+<p align="center">
+<a href="https://github.com/mujahid5177/WearWise">🔗 View Project</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
+
+<a href="https://github.com/HuzeThat?tab=repositories">
+<img src="https://raw.githubusercontent.com/HuzeThat/MyPortfolio/main/images/whether.png.jpg" width="100%" alt="WeatherPro Screenshot" />
+</a>
 
 ### 🌦️ WeatherPro
 
-A weather-related application project exploring application design and weather functionality.
+A weather-related application project focused on displaying weather information through an application interface.
 
-**Technologies:**
-Web / Application Development
+**Technologies**
 
-[View Repositories](https://github.com/HuzeThat?tab=repositories)
+![Web Development](https://img.shields.io/badge/Web_Development-4285F4?style=flat)
+
+<p align="center">
+<a href="https://github.com/HuzeThat?tab=repositories">🔗 View Project</a>
+</p>
 
 </td>
 </tr>
@@ -148,30 +186,52 @@ Web / Application Development
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/HuzeThat/food_delivery">
+<img src="https://raw.githubusercontent.com/HuzeThat/MyPortfolio/main/images/food-delivery.png" width="100%" alt="Food Delivery Application Screenshot" />
+</a>
+
 ### 🍔 Food Delivery
 
 A project focused on food delivery application functionality and user experience.
 
-**Technologies:**
-Application Development
+**Technologies**
 
-[View Repository](https://github.com/HuzeThat/food_delivery)
+![Application](https://img.shields.io/badge/Application-Development-0078D4?style=flat)
+
+<p align="center">
+<a href="https://github.com/HuzeThat/food_delivery">🔗 View Project</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🌐 My Portfolio
+<a href="https://github.com/HuzeThat/MyPortfolio">
+<img src="https://raw.githubusercontent.com/HuzeThat/MyPortfolio/main/images/huze.png.jpg" width="100%" alt="Personal Portfolio Screenshot" />
+</a>
 
-A responsive personal portfolio built using HTML and CSS to showcase my projects, skills, certificates and contact information.
+### 💼 My Personal Portfolio
 
-**Technologies:**
-HTML • CSS
+A responsive personal portfolio website built using HTML and CSS to showcase my projects, skills, certificates and contact information.
 
-[View Repository](https://github.com/HuzeThat/MyPortfolio)
+**Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+<p align="center">
+<a href="https://github.com/HuzeThat/MyPortfolio">🔗 View Project</a>
+</p>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+<a href="https://github.com/HuzeThat?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
@@ -182,18 +242,21 @@ HTML • CSS
 <td align="center" width="33%">
 
 ### 📜 e-SHE
+
 Certificate
 
 </td>
 <td align="center" width="33%">
 
 ### 📜 CE102
+
 Certificate
 
 </td>
 <td align="center" width="33%">
 
 ### 🎓 Udacity
+
 5M Coders
 
 </td>
@@ -212,8 +275,6 @@ Certificate
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuzeThat&theme=tokyonight&hide_border=true" width="80%" />
 </p>
-
----
 
 ---
 
