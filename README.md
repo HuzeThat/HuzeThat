@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/profile-banner.png" width="100%" />
+</p>
 # 👋 Hello, I'm Huzeifa S.
 
 ### 🌐 Web Developer | Computer Science Student | Tech Enthusiast
