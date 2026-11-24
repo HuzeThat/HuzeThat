@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile-banner.png" width="100%" />
+  <img src="./profile-banner.png" width="100%" alt="Huzeifa's Developer Banner" />
 </p>
 # 👋 Hello, I'm Huzeifa S.
 
