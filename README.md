@@ -31,6 +31,14 @@
 
 <td width="70%" valign="middle">
 
+
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+<img src="./profile-banner" width="180" alt="profile-banner" />
+</td>
+
+<td width="70%" valign="middle">
 ## 👨‍💻 About Me
 
 I'm a Computer Science student and Web Developer passionate about building applications, solving problems, and exploring modern technologies.
