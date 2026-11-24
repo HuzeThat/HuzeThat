@@ -215,28 +215,30 @@ Certificate
 
 ---
 
+---
+
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:huzesirajflow@gmail.com">
-    <img src="https://img.shields.io/badge/Email-huzesirajflow%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:huzesirajflow@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/MichuSah">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/MichuSah" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@yaSaNadi1915">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.youtube.com/@yaSaNadi1915" title="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/hzeifa">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/hzeifa" title="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@allahu.ya.sanadi">
-    <img src="https://img.shields.io/badge/TikTok-Profile-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <a href="https://www.tiktok.com/@allahu.ya.sanadi" title="TikTok">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  📞 0919159917
+  📞 <a href="tel:+251919159917">0919159917</a>
 </p>
 
 ---
